@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277515463752",
+    "project_id": "fir-appdemobtib",
+    "storage_bucket": "fir-appdemobtib.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277515463752:android:48140b502392ace6563c7d",
+        "android_client_info": {
+          "package_name": "com.fahim.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuVmj943X0eG_HP_IQHcHjgPCvyT5t2RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
